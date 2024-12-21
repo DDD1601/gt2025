@@ -4,9 +4,9 @@ Push your project here.
 
 ===
 
-Student Name: NOT-VIETNAMESE.
+Student Name: Tran Duc Duong.
 
-Student ID: USTH-ID.
+Student ID: 22BI13117.
 
 ===
 
